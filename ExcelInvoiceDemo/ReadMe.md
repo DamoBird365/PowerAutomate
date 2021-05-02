@@ -1,7 +1,7 @@
 Power Automate Cloud Flow to Populate an Excel Template file using Excel Scripts
 
 This was first demo'd here https://damobird365.birdhoose.co.uk/2021/03/24/power-automate-office-scripts-populate-an-excel-template-dynamically-using-type-script 
-with video demo here on my YouTube Channel here https://youtu.be/lskqQNDegXc.
+with video demo on my YouTube Channel here https://youtu.be/lskqQNDegXc.
 
 The prrof of concept solution includes a copy of the two lists (Excel Files) required to build the data sources used in the MS Dev Demo named CustomerAccounts and WorkComplete
 A copy of the Cloud Flow Solution that you can import into your own Power Automate environment for testing
