@@ -7,6 +7,6 @@ You can reach out to me on Social Media platforms if you have any questions.
 
 Thanks for visiting.
 
-YouTube -> Please Subscribe https://www.youtube.com/channel/UC-NCKrEw6CM8fidaIk-yrUQ
+YouTube -> Please Subscribe https://www.youtube.com/c/DamoBird365
 Twitter -> https://twitter.com/DamoBird365
-LinkedIn -> https://www.linkedin.com/in/damobird365/
+LinkedIn -> https://www.linkedin.com/in/DamoBird365/
