@@ -1,0 +1,39 @@
+Include Column Formatting (remember to update your column name)
+
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
+  "elmType": "div",
+  "style": {
+    "cursor": "pointer",
+    "font-size": "23px"
+  },
+  "customRowAction": {
+    "action": "setValue",
+    "actionInput": {
+      "Include": "=if(@currentField , '0' , '1' )"
+    }
+  },
+  "attributes": {
+    "iconName": "=if(@currentField , 'BoxCheckmarkSolid' , 'Checkbox' )",
+    "class": "ms-fontColor-themePrimary"
+  }
+}
+
+
+Run a Flow from Column (please update flow ID)
+
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/column-formatting.schema.json",
+  "elmType": "div",
+  "style": {
+    "font-size": "15px"
+  },
+  "attributes": {
+    "class": "ms-bgColor-themeLighter ms-bgColor-themeLight--hover"
+  },
+  "txtContent": "✉ Email Selected Files",
+  "customRowAction": {
+    "action": "executeFlow",
+    "actionParams": "{\"id\":\"b249579b-502d-4012-964e-d800a1296123\", \"headerText\":\"Run my flow\",\"runFlowButtonText\":\"Go!\"}"
+  }
+}
