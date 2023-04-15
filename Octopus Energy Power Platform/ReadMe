@@ -1,4 +1,4 @@
-Project Name
+Octopus Energy Power Platform Proof Of Concept
 In order to allow users in the UK to access their Octopus Energy data via the Power Platform, I have developed a proof of concept custom connector and accompanying Power App and Power Automate that will allow you to monitor your energy usage on Octopus.  This specific solution looks at the tracker tariff which changes daily but it can be adapted to suit your own requirements.
 
 Installation
