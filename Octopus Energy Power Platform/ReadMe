@@ -1,0 +1,14 @@
+Project Name
+In order to allow users in the UK to access their Octopus Energy data via the Power Platform, I have developed a proof of concept custom connector and accompanying Power App and Power Automate that will allow you to monitor your energy usage on Octopus.  This specific solution looks at the tracker tariff which changes daily but it can be adapted to suit your own requirements.
+
+Installation
+To install, import the solution to the Power Platform and set the 3 environment variables, MPAN, Meter Serial No and alert Email address.
+
+Usage
+I will prepare a video in due course demonstrating some of the functionality and how it might be extended further to suit your requirements.
+
+License
+The software is provided as is, without warranty.
+
+Contact
+You can reach out to me on social media as DamoBird365 if you have any questions.
